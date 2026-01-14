@@ -1,0 +1,10 @@
+.portrait-crop {
+    object-fit: cover;
+    object-position: top;
+    max-height: 200px;
+}
+
+.portrait-card {
+    max-width: 400px;
+}
+
